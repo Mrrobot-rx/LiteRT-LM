@@ -1,6 +1,14 @@
-The LiteRT LM repository is not currently ready for code contributions. We will
-make a separate announcement when we are ready for OSS users to build from this
-repository and make contributions to it. In the meanwhile, if you have any
-suggestions, or issues, please feel free to create a
-[GitHub Issues](https://github.com/google-ai-edge/LiteRT-LM/issues/new)
-to us. Thanks!
+# Contributing to LiteRT-LM
+
+Thank you for your interest in contributing! 🎉
+
+## Development Workflow
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/your-feature`
+3. Commit with conventional commits: `feat:`, `fix:`, `docs:`, `chore:`
+4. Push and open a Pull Request
+
+## Pull Request Checklist
+- [ ] Tests pass
+- [ ] Documentation updated
+- [ ] Changelog entry added
